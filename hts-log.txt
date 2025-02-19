@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Feb 2025 14:41:03 at https://wall-street-pepe.web.app +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wall-street-pepe.web.app -O1 "C:\Users\Apple\Downloads\wepe projects\wepe project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:41:22	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/robots.txt
+14:44:57	Error: 	"Forbidden" (403) at link https://kit.fontawesome.com/78d167673c.js (from https://wall-street-pepe.web.app/dev/)
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/lg(1)
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/lg(2)
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/28189800
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/49746116
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/lg(3)
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/lg(4)
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/lg(5)
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/lg(6)
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/44049579
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/images
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/ofbdehdu4sju07vlltgf
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/images(1)
+14:45:59	Warning: 	File not parsed, looks like binary: https://wall-street-pepe.web.app/dev/assets/lg(7)
+14:50:11	Error: 	"Forbidden" (403) at link https://icons-for-free.com/download-icon-cryptocurrency+icons+++black+adx-1324448926854794233_512.png (from https://wall-street-pepe.web.app/dev/load.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 hours 46 minutes 53 seconds : 868 links scanned, 865 files written (11854594213 bytes overall) [4679504136 bytes received at 167047 bytes/sec], 11860346616 bytes transferred using HTTP compression in 855 files, ratio 39%, 1.1 requests per connection
+(2 errors, 14 warnings, 0 messages)
